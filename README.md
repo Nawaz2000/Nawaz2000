@@ -11,7 +11,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 🌱 I’m currently learning - <b>Full-Stack Development, Data Structures, Algorithms, Music theory and a little bit of everything.</b>
 
-🥅 <b>2022 Goals - </b> contribute to <b>open source</b>, paint my GitHub green, <b>land a fulltime</b> as a developer, <b>make myself better</b> each day and have an ice cream every time I get sad 😁.
+🥅 <b>2022 Goals - </b> contribute to <b>open source</b>, paint my GitHub green, <b>land a fulltime</b> as a developer, <b>make myself better</b> each day and have an ice cream every time life knocks me down 😁.
 
 💬 Ask me about : JAVA, Backend development, DSA and music.
 

@@ -37,7 +37,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 ### Competitive Profile
 
-[<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][https://auth.geeksforgeeks.org/user/mail2nawaz2000/profile]
+[<img align="left" alt="geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][https://auth.geeksforgeeks.org/user/mail2nawaz2000/profile]
 [<img align="left" alt="codeforces" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][https://leetcode.com/mail2nawaz2000/]
 
 <br />

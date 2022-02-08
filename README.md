@@ -68,6 +68,8 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 ### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaz2000)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz2000)](https://github.com/anuraghazra/github-readme-stats)
 
 

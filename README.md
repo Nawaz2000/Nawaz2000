@@ -77,4 +77,4 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 [linkedin]: https://www.linkedin.com/in/md-nawaz-rahaman-047b56177/
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/mail2nawaz2000/profile
-[leetcode]: https://leetcode.com/nawaz2000/
+[leetcode]: https://leetcode.com/mail2nawaz2000/

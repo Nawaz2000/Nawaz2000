@@ -21,7 +21,7 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 
 📫 <b>Drop a mail at - </b> - [mail2nawaz2000@gmail.com]
 
-⚡ <b>Fun fact - </b> Got a personal appreciation from System of a Down's bassist Shavo Odadjian for my sketch of him 😃
+⚡ <b>Fun fact - </b> i once got a personal appreciation from System of a Down's bassist Shavo Odadjian for my sketch of him 😃
 
 🎉 <b>Recent projects - </b>[https://contact-plus.herokuapp.com/] [https://your-birthday.herokuapp.com/]
 

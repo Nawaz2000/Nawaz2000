@@ -72,6 +72,9 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawaz2000&" alt="nawaz2000" /></p>
+
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/md-nawaz-rahaman-javadeveloper/

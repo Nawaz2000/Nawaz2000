@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nawaz-rahaman-047b56177/)
 ![](https://komarev.com/ghpvc/?username=Nawaz2000&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a student and an aspiring developer from India ✔
+## I'm a computer science grad from India ✔
 
 I am a final year undergrad <b>Student</b> at the <b>University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
